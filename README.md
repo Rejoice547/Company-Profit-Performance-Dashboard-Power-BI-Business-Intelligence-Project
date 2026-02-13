@@ -13,9 +13,8 @@ This Power BI dashboard provides a comprehensive analysis of profitability acros
 
 - Enable interactive filtering for deeper analysis.
   ## Dashboard
-  <img width="878" height="494" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/f18856cb-31c3-4b1a-9a01-f9909ffbe1aa" />
-
-<img width="884" height="497" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/23f4fe8b-1cb1-4867-892b-b3f9c8334e8d" />
+  <img width="884" height="497" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/538f392b-8067-4ca4-ae62-57b428e42675" />
+<img width="878" height="494" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/101ddc77-f4a1-477f-8bc4-5d885f380a7a" />
 
   ## Industry Insight Page
 
